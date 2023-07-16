@@ -15,6 +15,7 @@ This project remedies this by pairing each LED with an ATTINY85. The result is w
 - less efficient
 - less reliable
 - has noticeable boot time
+- labor intensive
 
 But it does work as an LED throwie, and by soldering each pin of the ATTINY85 high, low, or leaving it floating, one can select from up to [TODO: count permutations] different colors and patterns
 ## Hardware needed:
