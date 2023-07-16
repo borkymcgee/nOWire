@@ -11,7 +11,7 @@ This project remedies this by pairing each LED with an ATTINY85. The result is w
 
 - more expensive
 - more bulky
-- less dim
+- less bright
 - less efficient
 - less reliable
 - has noticeable boot time
