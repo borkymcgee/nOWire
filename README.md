@@ -1,4 +1,4 @@
-# nOWire
+# nOWire ![cbat gif](https://github.com/borkymcgee/nOWire/raw/img/cbat.gif)
 
 A fun, silly little project to convert an OWire LED to a normal LED, negating all of the benefits of using OWire and resulting in a product that is worse than a regular LED in just about every way.
 
@@ -31,7 +31,9 @@ Nearly all of the modes and colors are simply the ones builtin to the LED, and u
 
 The exception is cbat mode, a new mode that flashes the LED in the specified color to the rhythm of cbat
 ## Instructions:
-After loading this firmware on the ATTINY85, solder the OWire according to the picture, and solder the remaining ATTINY85 pins according to the table [TODO: add table]
+After loading this firmware on the ATTINY85, solder the OWire according to the picture, and solder the remaining ATTINY85 pins according to the table
+
+![wiring diagram](https://github.com/borkymcgee/nOWire/raw/img/Awful_diagram.png)
 
  0 = low, 1 = high, 2 = floating, blank = doesn't matter
 
