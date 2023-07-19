@@ -1,4 +1,5 @@
-# nOWire ![cbat](https://github.com/borkymcgee/nOWire/blob/main/img/cbat.gif)
+# nOWire 
+![cbat](https://github.com/borkymcgee/nOWire/blob/main/img/cbat.gif)
 
 A fun, silly little project to convert an OWire LED to a normal LED, negating all of the benefits of using OWire and resulting in a product that is worse than a regular LED in just about every way.
 
